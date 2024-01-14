@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj",
-      "projectName": "PetProject.Presentation",
-      "projectPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\PetProject\\src\\PetProject.Presentation\\PetProject.Api.csproj",
+      "projectName": "PetProject.Api",
+      "projectPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Presentation\\PetProject.Api.csproj",
       "packagesPath": "C:\\Users\\codeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Presentation\\obj\\",
+      "outputPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\codeb\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Infrastructure\\PetProject.Infrastructure.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\PetProject\\src\\PetProject.Infrastructure\\PetProject.Infrastructure.csproj",
       "projectName": "PetProject.Infrastructure",
-      "projectPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Infrastructure\\PetProject.Infrastructure.csproj",
+      "projectPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Infrastructure\\PetProject.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\codeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Infrastructure\\obj\\",
+      "outputPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\codeb\\AppData\\Roaming\\NuGet\\NuGet.Config",

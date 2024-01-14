@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFtpNT2f2bfOsfRlIv8RCz3hW1FPOUm9XdX9CDYaK47sE0jjsjDwQYRA27ocfp7VP+lR47Hrk3JVycnpeA/0FA==",
+  "dgSpecHash": "Yp4ZaA6Em7UMoqGVCSqjbGDmHvL7FrkRZb8UXadxQW3VtALX+Qv3pAqj9avHJDJUG2wSYoVY8jU04vjCNB+mcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Service\\PetProject.Service.csproj",
+  "projectFilePath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Service\\PetProject.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

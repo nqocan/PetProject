@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Domain\\PetProject.Domain.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\PetProject\\src\\PetProject.Domain\\PetProject.Domain.csproj",
       "projectName": "PetProject.Domain",
-      "projectPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Domain\\PetProject.Domain.csproj",
+      "projectPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Domain\\PetProject.Domain.csproj",
       "packagesPath": "C:\\Users\\codeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Domain\\obj\\",
+      "outputPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\codeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
