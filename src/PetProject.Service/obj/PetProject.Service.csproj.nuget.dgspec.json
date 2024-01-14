@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Service\\PetProject.Service.csproj": {}
+    "D:\\WorkSpace\\PetProject\\src\\PetProject.Service\\PetProject.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Service\\PetProject.Service.csproj": {
+    "D:\\WorkSpace\\PetProject\\src\\PetProject.Service\\PetProject.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Service\\PetProject.Service.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\PetProject\\src\\PetProject.Service\\PetProject.Service.csproj",
         "projectName": "PetProject.Service",
-        "projectPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Service\\PetProject.Service.csproj",
+        "projectPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Service\\PetProject.Service.csproj",
         "packagesPath": "C:\\Users\\codeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Service\\obj\\",
+        "outputPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\codeb\\AppData\\Roaming\\NuGet\\NuGet.Config",

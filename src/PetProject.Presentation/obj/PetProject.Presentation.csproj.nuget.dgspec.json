@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj": {}
+    "D:\\WorkSpace\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj": {
+    "D:\\WorkSpace\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj",
         "projectName": "PetProject.Presentation",
-        "projectPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj",
+        "projectPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Presentation\\PetProject.Presentation.csproj",
         "packagesPath": "C:\\Users\\codeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\codeb\\source\\repos\\PetProject\\src\\PetProject.Presentation\\obj\\",
+        "outputPath": "D:\\WorkSpace\\PetProject\\src\\PetProject.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\codeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
